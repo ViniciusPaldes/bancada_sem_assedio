@@ -1,0 +1,9 @@
+.helper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.helper p {
+  width: 55%;
+}

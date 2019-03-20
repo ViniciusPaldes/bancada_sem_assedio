@@ -9,6 +9,7 @@ class App extends Component {
       <div className="App">
         <components.header />
         <components.mainDisplay />
+        <components.helper />
         <components.footer />
       </div>
     );

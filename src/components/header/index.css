@@ -1,0 +1,10 @@
+.header {
+  background-color: #b7b6b1;
+}
+
+.header img {
+  margin-top: 100px;
+  margin-bottom: -5px;
+  width: 100%;
+  object-fit: cover;
+}
