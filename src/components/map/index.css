@@ -1,5 +1,35 @@
 .map {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
 }
 
-.mapeamento {
+.map legend {
+  color: #bf2033;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Raleway";
+}
+
+.map h4 {
+  color: #000000;
+  font-weight: 500;
+  font-size: 18px;
+  width: 65%;
+  font-family: "Raleway";
+}
+.mapeamentoTxt {
+}
+
+.mapeamentoImg {
+}
+
+.iconeMapeamento {
+  width: 35%;
+}
+
+.torcidaCinza {
+  width: 100%;
 }
