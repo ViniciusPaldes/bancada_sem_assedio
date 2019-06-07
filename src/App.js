@@ -8,8 +8,8 @@ class App extends Component {
       <div className="App">
         <components.header />
         <components.mainDisplay />
-        <components.helper />
         <components.map />
+        <components.denuncia />
         <components.footer />
       </div>
     );

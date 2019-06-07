@@ -1,4 +1,4 @@
-.map {
+.denuncia {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -6,36 +6,28 @@
   margin-top: 10px;
 }
 
-.map legend {
+.denuncia legend {
   color: #bf2033;
-  font-weight: bold;
-  font-size: 24px;
+  font-weight: bolder;
+  font-size: 30px;
+  width: 80%;
+  text-transform: uppercase;
   font-family: "Raleway";
 }
 
-.map h4 {
-  color: #000000;
+.denuncia h4 {
+  color: #282828;
   font-weight: 500;
   font-size: 18px;
   width: 65%;
   font-family: "Raleway";
 }
 
-.map p {
-  width: 73%;
-  color: #727272;
-}
-
-.mapeamentoTxt {
-}
-
-.mapeamentoImg {
-}
-
-.iconeMapeamento {
-  width: 35%;
+.estadioSelect {
+  align-self: center;
 }
 
 .torcidaCinza {
+  margin-top: 30px;
   width: 100%;
 }
